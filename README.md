@@ -1,10 +1,10 @@
-# 华师塔内PC协会 github 账号使用协议-0.1.0
+# 华师塔内PC协会 github 账号使用协议-0.2.0
 
 <!--
-名称：华师塔内PC协会 github 账号使用协议-0.1.0
-版本：0.1.0
+名称：华师塔内PC协会 github 账号使用协议-0.2.0
+版本：0.2.0
 创建时间：2020-03-11 00:11
-最后编辑：2020-03-11 00:35
+最后编辑：2020-03-11 23:33
 描述：此文档为塔内 PC 协会 Github 账号的使用协议，阐述使用本账号时应遵守的约定
 -->
 
@@ -44,7 +44,7 @@
 ## 三、仓库管理
 1. 为避免仓库过大导致克隆仓库的时间过长，一般关联性比较强的文件才放到同一个仓库中  
 2. 任何有权限对本账号使用账号密码访问的人均可以在本账号下创建仓库，创建或修改仓库后请更
-新`main-repos`仓库中的表格
+新 `main-repos` 仓库中的表格
 
 ## 三、账号维护
 1. 每学年换届结束后，由新任会长层负责删除过时的密钥，并更改密码、更新账号信息，并处理授
@@ -53,7 +53,8 @@
 干事的公钥
 3. 每学年招新结束后由各部长负责处理本部门干事的授权请求
 4. 各部门所创建的仓库对于有时间内容的文件（如 LICENSE）应及时更新
+5. 每月由协会公共邮箱的主要管理员更新 `main-repos-**` 仓库的名称
 
 ## 四、更多
 * [user-guide](https://github.com/scnutn/user-guide/blob/master/README.md)  
-* [main-repos](https://github.com/scnutn/main-repos/blob/master/README.md)  
+* [main-repos (login required)](https://github.com/scnutn/main-repos/blob/master/README.md)  
